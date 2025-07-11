@@ -1,0 +1,10 @@
+pip install -r requirements_ml-2025.txt
+mlflow
+jupyter
+scikit-learn
+pandas
+seaborn
+hyperopt
+xgboost
+fastparquet
+boto3
